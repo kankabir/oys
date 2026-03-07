@@ -1,13 +1,13 @@
 {
   "tarife1": {
-    "one_year": "https://link.tosla.com/?l=pwT0nT8w",
-    "two_year": "https://link.tosla.com/?l=paMJU7p5",
+    "one_year": "https://link.tosla.com/?l=pe2NLDMv",
+    "two_year": "https://link.tosla.com/?l=p4FqjA1s",
     "iban": "TR97 0020 3000 0286 5438 0000 05",
     "banka": "Albaraka Türk",
     "hesap_sahibi": "Cansel ÖZKAYA",
     "prices": {
-      "one_year": "3600₺",
-      "two_year": "6000₺"
+      "one_year": "4200₺",
+      "two_year": "7200₺"
     }
   },
   "tarife2": {
