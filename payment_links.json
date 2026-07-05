@@ -11,14 +11,14 @@
     }
   },
   "tarife2": {
-    "one_year": "https://link.tosla.com/?l=pe2NLDMv",
-    "two_year": "https://link.tosla.com/?l=p4FqjA1s",
+    "one_year": "https://link.tosla.com/?l=pKWV3HXq",
+    "two_year": "https://link.tosla.com/?l=pp3fpZnU",
     "iban": "TR97 0020 3000 0286 5438 0000 05",
     "banka": "Albaraka Türk",
     "hesap_sahibi": "Cansel ÖZKAYA",
     "prices": {
-      "one_year": "4200₺",
-      "two_year": "7200₺"
+      "one_year": "4800₺",
+      "two_year": "8400₺"
     }
   },
  "tarife3": {
@@ -55,14 +55,14 @@
     }
   },
   "tarife6": {
-    "one_year": "https://link.tosla.com/?l=pKWV3HXq",
-    "two_year": "https://link.tosla.com/?l=pp3fpZnU",
+    "one_year": "https://link.tosla.com/?l=pkklBzme",
+    "two_year": "https://link.tosla.com/?l=pkbHQ2Bh",
     "iban": "TR97 0020 3000 0286 5438 0000 05",
     "banka": "Albaraka Türk",
     "hesap_sahibi": "Cansel ÖZKAYA",
     "prices": {
-      "one_year": "4800₺",
-      "two_year": "8400₺"
+      "one_year": "6000₺",
+      "two_year": "10800₺"
     }
   }
 }
